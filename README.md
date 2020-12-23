@@ -3,9 +3,9 @@
 AJ Ecom Pvt Ltd is one of the leading business company who have supermarkets across different regions of India. 
 Their goal is to understand the performance of their supermarkets in terms of customers, products and its sale.
 ## Problem statements:
-Identify gender bias in dataset
-Sale’s amount distribution
-Impact of different age groups on product purchase
+1) Identify gender bias in dataset
+2) Sale’s amount distribution
+3) Impact of different age groups on product purchase
 Top 10 customers
 Product category preferred by customers
 Product subcategory preferred by customers
